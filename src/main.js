@@ -6,17 +6,16 @@ import { routes } from './routes.js'
 
 import Header from './components/shared/Header.vue'
 import Footer from './components/shared/Footer.vue'
-import HomeCom from './components/home/Home.vue'
 
 Vue.use(VueRouter)
 
 const router = new VueRouter({
-    routes
+    routes,
+    mode: 'history'
 })
 
 Vue.component('app-header', Header)
 Vue.component('app-footer', Footer)
-Vue.component('app-home', HomeCom)
 
 new Vue({
   el: '#app',
