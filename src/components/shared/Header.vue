@@ -217,7 +217,223 @@
                 </div>
             </div>
             <!-- end main header -->
+            <div class="header-nav9 header-nav12">
+                <div class="container">
+                    <div class="nav-search9">
+                        <nav class="main-nav main-nav12">
+                            <ul>
+                                <li class="menu-item-has-children">
+                                    <a href="#">Home</a>
+                                    <ul class="sub-menu">
+                                        <li class="menu-item-has-children">
+                                            <a href="#">Home 1-6</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item-preview">
+                                                    <a href="home-01.html">Home 1</a>
+                                                    <div class="preview-image">
+                                                        <a href="home-01.html">
+                                                            <img src="./../../assets/images/previews/02_home_v1.jpg" alt="" />
+                                                        </a>
+                                                    </div>
+                                                </li>
+                                                <li class="menu-item-preview">
+                                                    <a href="home-02.html">Home 2</a>
+                                                    <div class="preview-image">
+                                                        <a href="home-02.html">
+                                                            <img src="./../../assets/images/previews/02_home_v2.jpg" alt="" />
+                                                        </a>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="has-mega-menu">
+                                    <a href="list-boxed-banner.html">Fashion </a>
+                                    <div class="mega-menu">
+                                        <div class="row">
+                                            <div class="col-md-5 col-sm-4 col-xs-12">
+                                                <div class="mega-adv">
+                                                    <div class="banner-image">
+                                                        <a href="#">
+                                                            <img src="./../../assets/images/mega-menu/fashion.jpg" alt="" />
+                                                        </a>
+                                                    </div>
+                                                    <div class="mega-adv-info">
+                                                        <h3 class="title18">
+                                                            <a href="#">Examplui coloniu tencaug</a>
+                                                        </h3>
+                                                        <p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                                            magna aliqua.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-7 col-sm-8 col-xs-12">
+                                                <div class="mega-new-arrival">
+                                                    <h2 class="mega-menu-title">Featured Product</h2>
+                                                    <div class="mega-new-arrival-slider">
+                                                        <div class="wrap-item" data-pagination="false" data-navigation="true" data-itemscustom="[[0,1],[768,2]]">
+                                                            <div class="item">
+                                                                <div class="item-product-ajax item-product">
+                                                                    <div class="product-thumb">
+                                                                        <a href="detail.html" class="product-thumb-link">
+                                                                            <img src="./../../assets/images/photos/fashion/11.jpg" alt="">
+                                                                        </a>
+                                                                        <a href="quick-view.html" class="quickview-link plus fancybox.iframe">quick view</a>
+                                                                        <div class="product-extra-link">
+                                                                            <a href="#" class="addcart-link">
+                                                                                <i class="fa fa-shopping-basket" aria-hidden="true"></i>
+                                                                            </a>
+                                                                            <a href="#" class="wishlist-link">
+                                                                                <i class="fa fa-heart" aria-hidden="true"></i>
+                                                                            </a>
+                                                                            <a href="#" class="compare-link">
+                                                                                <i class="fa fa-refresh" aria-hidden="true"></i>
+                                                                            </a>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="product-info">
+                                                                        <h3 class="product-title">
+                                                                            <a href="detail.html">new favorite</a>
+                                                                        </h3>
+                                                                        <div class="product-price">
+                                                                            <del>
+                                                                                <span>$400.00</span>
+                                                                            </del>
+                                                                            <ins>
+                                                                                <span>$360.00</span>
+                                                                            </ins>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End Mega Menu -->
+                                </li>
+                            </ul>
+                            <a href="#" class="toggle-mobile-menu">
+                                <span></span>
+                            </a>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <!-- End Header Nav -->
         </div>
+
+        <div class="header-ontop">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-2 col-sm-2 col-xs-12">
+                        <div class="logo">
+                            <h1 class="hidden">kuteshop wordpress theme</h1>
+                            <a href="index.html">
+                                <img src="./../../assets/images/home12/logo.png" alt="">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-8 col-sm-8 col-xs-12">
+                        <nav class="main-nav main-nav-ontop">
+                            <ul>
+                                <li class="menu-item-has-children">
+                                    <a href="#">Home</a>
+                                    <ul class="sub-menu">
+                                        <li class="menu-item-has-children">
+                                            <a href="#">Home 1-6</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item-preview">
+                                                    <a href="home-01.html">Home 1</a>
+                                                    <div class="preview-image">
+                                                        <a href="home-01.html">
+                                                            <img src="./../../assets/images/previews/02_home_v1.jpg" alt="" />
+                                                        </a>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="has-mega-menu">
+                                    <a href="list-boxed-banner.html">Fashion </a>
+                                    <div class="mega-menu">
+                                        <div class="row">
+                                            <div class="col-md-5 col-sm-4 col-xs-12">
+                                                <div class="mega-adv">
+                                                    <div class="banner-image">
+                                                        <a href="#">
+                                                            <img src="./../../assets/images/mega-menu/fashion.jpg" alt="" />
+                                                        </a>
+                                                    </div>
+                                                    <div class="mega-adv-info">
+                                                        <h3 class="title18">
+                                                            <a href="#">Examplui coloniu tencaug</a>
+                                                        </h3>
+                                                        <p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                                            magna aliqua.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-7 col-sm-8 col-xs-12">
+                                                <div class="mega-new-arrival">
+                                                    <h2 class="mega-menu-title">Featured Product</h2>
+                                                    <div class="mega-new-arrival-slider">
+                                                        <div class="wrap-item" data-pagination="false" data-navigation="true" data-itemscustom="[[0,1],[768,2]]">
+                                                            <div class="item">
+                                                                <div class="item-product-ajax item-product">
+                                                                    <div class="product-thumb">
+                                                                        <a href="detail.html" class="product-thumb-link">
+                                                                            <img src="./../../assets/images/photos/fashion/11.jpg" alt="">
+                                                                        </a>
+                                                                        <a href="quick-view.html" class="quickview-link plus fancybox.iframe">quick view</a>
+                                                                        <div class="product-extra-link">
+                                                                            <a href="#" class="addcart-link">
+                                                                                <i class="fa fa-shopping-basket" aria-hidden="true"></i>
+                                                                            </a>
+                                                                            <a href="#" class="wishlist-link">
+                                                                                <i class="fa fa-heart" aria-hidden="true"></i>
+                                                                            </a>
+                                                                            <a href="#" class="compare-link">
+                                                                                <i class="fa fa-refresh" aria-hidden="true"></i>
+                                                                            </a>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="product-info">
+                                                                        <h3 class="product-title">
+                                                                            <a href="detail.html">new favorite</a>
+                                                                        </h3>
+                                                                        <div class="product-price">
+                                                                            <del>
+                                                                                <span>$400.00</span>
+                                                                            </del>
+                                                                            <ins>
+                                                                                <span>$360.00</span>
+                                                                            </ins>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- End Item -->
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End Mega Menu -->
+                                </li>
+                            </ul>
+                        </nav>
+                        <!-- End Main Nav -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Header On Top -->
     </div>
 </template>
 

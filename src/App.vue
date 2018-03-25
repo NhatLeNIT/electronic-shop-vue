@@ -1,9 +1,5 @@
 <template>
-    <div class="wrap">
-        <app-header></app-header>
-
-        <app-footer></app-footer>
-    </div>
+    <router-view></router-view>
 </template>
 <script>
 
