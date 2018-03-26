@@ -2728,7 +2728,7 @@ a.shop-button,
   margin: 0;
 }
 .bread-crumb {
-  background: #494949 none repeat scroll 0 0;
+  background: #2c3e50 none repeat scroll 0 0;
   color: #fff;
   margin-bottom: 20px;
   padding: 10px 20px;
@@ -2916,7 +2916,7 @@ a.shop-button,
   margin: 0 -5px;
 }
 .product-extra-link2 .addcart-link {
-  background: #333 none repeat scroll 0 0;
+  background: #2c3e50 none repeat scroll 0 0;
   border: medium none;
   color: #fff;
   padding: 0 20px;
@@ -2928,7 +2928,7 @@ a.shop-button,
 .product-extra-link2 a {
   background: #fff none repeat scroll 0 0;
   border: 1px solid #e5e5e5;
-  color: #333;
+  color: #2c3e50;
   border-radius: 4px;
   display: inline-block;
   height: 40px;
@@ -3505,7 +3505,7 @@ a.shop-button,
   margin: 10px 0 0;
 }
 .banner-shop.full-width .bread-crumb {
-  background: rgba(0, 0, 0, 0.7) none repeat scroll 0 0;
+  background: #2c3e50 none repeat scroll 0 0;
   bottom: 0;
   left: 0;
   margin: 0;
@@ -13551,7 +13551,7 @@ a.protect-icon:hover {
   padding: 0 15px;
 }
 .item-product16 .addcart-link:hover {
-  background: #333!important;
+  background: #2c3e50 !important;
 }
 .list-banner16 {
   margin: 0 7px 50px;
