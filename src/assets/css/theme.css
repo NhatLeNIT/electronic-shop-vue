@@ -1082,7 +1082,7 @@ a.shop-button,
   line-height: 40px;
   overflow: hidden;
   position: relative;
-  background: #333;
+  background: #2c3e50;
   padding: 0 18px;
   border-radius: 4px;
 }
@@ -6488,7 +6488,7 @@ a.protect-icon:hover {
 .social-header.style2 > a {
   background: transparent none repeat scroll 0 0;
   border: 1px solid #e5e5e5;
-  color: #333;
+  color: #2c3e50;
 }
 .smart-search.smart-search2 {
   margin-right: 55px;
@@ -6515,7 +6515,7 @@ a.protect-icon:hover {
   -webkit-transition: all 0.5s ease-out 0s;
 }
 .smart-search2 .smart-search-form input[type="submit"] {
-  background-color: #333;
+  background-color: #2c3e50;
 }
 .logo.logo2 {
   margin-top: -5px;
@@ -15387,7 +15387,7 @@ a.shop-button,
   width: 100%;
   text-transform: uppercase;
   border: none;
-  background: #333;
+  background: #2c3e50;
   transition: all 0.5s ease-out 0s;
   -webkit-transition: all 0.5s ease-out 0s;
 }
