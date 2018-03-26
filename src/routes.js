@@ -1,8 +1,8 @@
-import Home from './components/Home.vue'
-import Category from './components/Category.vue'
-import Detail from './components/Detail.vue'
-import Cart from './components/Cart.vue'
-import Checkout from './components/Checkout.vue'
+import Home from './pages/Home.vue'
+import Category from './pages/Category.vue'
+import Detail from './pages/Detail.vue'
+import Cart from './pages/Cart.vue'
+import Checkout from './pages/Checkout.vue'
 
 export const routes = [
     {path: '', component: Home},

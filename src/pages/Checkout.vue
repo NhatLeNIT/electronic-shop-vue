@@ -23,9 +23,9 @@
 <script>
 import HorizontalStepper from "vue-stepper";
 
-import CustomerInfo from './checkout/CustomerInfo.vue'
-import OrderReview from './checkout/OrderReview.vue'
-import Payment from './checkout/Payment.vue'
+import CustomerInfo from './../components/checkout/CustomerInfo.vue'
+import OrderReview from './../components/checkout/OrderReview.vue'
+import Payment from './../components/checkout/Payment.vue'
 
 export default {
   components: {

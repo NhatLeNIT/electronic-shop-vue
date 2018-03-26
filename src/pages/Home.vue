@@ -1,19 +1,20 @@
 <template>
     <div class="wrap">
         <app-header></app-header>
-        <div id="content">
-            <app-category></app-category>
+        <div class="content">
+            <app-home></app-home>
         </div>
         <app-footer></app-footer>
     </div>
 </template>
 
 <script>
-    import Category from './category/Category.vue'
+    import Home from './../components/home/Home.vue'
 
     export default {
         components: {
-            'app-category': Category
+            'app-home': Home
         }
     }
+
 </script>

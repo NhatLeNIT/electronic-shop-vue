@@ -1,19 +1,19 @@
 <template>
     <div class="wrap">
         <app-header></app-header>
-        <div class="content">
-            <app-detail></app-detail>
+        <div id="content">
+            <app-cart></app-cart>
         </div>
         <app-footer></app-footer>
     </div>
 </template>
 
 <script>
-    import Detail from './detail/Detail.vue'
+    import Cart from './../components/cart/Cart.vue'
 
     export default {
         components: {
-            'app-detail': Detail
+            'app-cart': Cart
         }
     }
 
